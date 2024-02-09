@@ -15,7 +15,7 @@ I'm Vaibhav, a coding enthusiast exploring the world of programming.
 `[Check out my GitHub](https://github.com/vaibhavsunilsarda37)`
 
 ## GitHub Stats
-`![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavsunilsarda37&show_icons=true&count_private=true&hide=contribs,prs)`
+ (https://github-readme-stats.vercel.app/api?username=vaibhavsunilsarda37&show_icons=true&count_private=true&hide=contribs,prs)`
 
 Feel free to check out my projects and connect if you're into coding too! 😊
 
